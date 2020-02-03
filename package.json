@@ -1,0 +1,7 @@
+{
+  "name": "node-schema",
+  "version": "1.0.0",
+  "dependencies": {
+    "kafka-rest": "0.0.5"
+  }
+}
